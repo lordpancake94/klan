@@ -2,7 +2,7 @@ db=5+1;
 document.write(tabla(db));
 var menusor=new Array(db);
 //var menugombok=["<img src='kepek/cimer.jpg'>","Főoldal","Szabályok","Valami","Facebook","Külső"];
-var menugombok=[new menugomb("<img src='kepek/cimer.jpg'>","fooldal.html"),new menugomb("Főoldal","fooldal.html"),new menugomb("Szabályok","szabaly.html"),new menugomb("Valami","valami.html"),new menugomb("Facebook","face.html"),new menugomb("Külső","kulso.html")];
+var menugombok=[new menugomb("<img src='cimer.jpg'>","fooldal.html"),new menugomb("Főoldal","fooldal.html"),new menugomb("Szabályok","szabaly.html"),new menugomb("Valami","valami.html"),new menugomb("Facebook","face.html"),new menugomb("Külső","kulso.html")];
 for(var i=0;i<menusor.length;i++)
 {
 	menusor[i]=document.getElementById(i);
