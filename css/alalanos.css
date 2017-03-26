@@ -1,13 +1,13 @@
 body
 {
-    background-color:cornflowerblue;
+    background-color:dodgerblue;
     
 }
 
 li
 {
     color:mediumblue;
-	text-shadow: 2px 1px mediumpurple;
+	text-shadow: 1px 1px mediumpurple;
     font-weight: bold;
     font-size:20pt;
     
@@ -16,23 +16,23 @@ li
 u
 {
     color:mediumblue;
-    text-shadow: 2px 1px mediumpurple;
+    text-shadow: 1px 1px mediumpurple;
     line-height: 0;
 }
 p
 {
 	color:darkorange;
 	text-align:justify;
-	font-size:17pt;
+	font-size:14pt;
     line-height: 0.8;
-    text-shadow: 2px 1px black;
+    text-shadow: 1px 1px black;
    
     
 }
 h2
 {
 	color:darkorange;
-	text-shadow: 2px 1px black;
+	text-shadow: 1px 1px black;
 	text-align:center;
 	font-size:17pt;
 }
