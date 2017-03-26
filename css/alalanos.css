@@ -1,20 +1,48 @@
 body
 {
-    background-color: lightskyblue;
+    background-color:cornflowerblue;
     
+}
+
+li
+{
+    color:mediumblue;
+	text-shadow: 2px 1px mediumpurple;
+    font-weight: bold;
+    font-size:20pt;
+    
+    
+}
+u
+{
+    color:mediumblue;
+    text-shadow: 2px 1px mediumpurple;
+    line-height: 0;
 }
 p
 {
 	color:darkorange;
-	text-shadow: 1px 1px black;
+	text-align:justify;
+	font-size:17pt;
+    line-height: 0.8;
+    text-shadow: 2px 1px black;
+   
+    
+}
+h2
+{
+	color:darkorange;
+	text-shadow: 2px 1px black;
 	text-align:center;
+	font-size:17pt;
 }
 h1
 {
 	color:darkorange;
     text-align: center;
-    text-shadow: 3px 2px black;
-    
+    text-shadow: 2px 1px black;
+    font-size:30pt;
+    text-decoration: underline;
 }
 
 a:visited
