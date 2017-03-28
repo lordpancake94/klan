@@ -1,23 +1,27 @@
 body
 {
-    background-color:dodgerblue;
+    background-color:darkslategray;
     
 }
 
 li
 {
-    color:mediumblue;
-	text-shadow: 1px 1px mediumpurple;
+    color:orangered;
+	text-shadow: 1px 1px black;
     font-weight: bold;
     font-size:20pt;
     
-    
+}
+u.pontos
+{
+     font-size:24pt;
 }
 u
 {
-    color:mediumblue;
-    text-shadow: 1px 1px mediumpurple;
+    color:orangered;
+    text-shadow: 1px 1px black;
     line-height: 0;
+    font-size:17pt;
     
 }
 p
@@ -68,4 +72,76 @@ img
 	border-color:black;
 	display:block;
 	margin:auto;
+}
+img.barbar
+{
+    border: 0;
+    position: absolute;
+    left:1050px; 
+    top:300px;
+    z-index: -1;
+    height: 200px;
+}
+img.lovag
+{
+    border: 0;
+    position: absolute;
+    left:600px; 
+    top:100px;
+    z-index: -1;
+    height: 200px;
+}
+img.malac
+{
+    border: 0;
+    position: absolute;
+    left:800px; 
+    top:70px;
+    z-index: -1;
+    height: 200px;
+}
+img.faronk
+{
+    border: 0;
+    position: absolute;
+    left:740px; 
+    top:220px;
+    z-index: -1;
+    width: 170px;
+}
+img.boszi
+{
+    border: 0;
+    position: absolute;
+    left:1000px; 
+    top:80px;
+    z-index: -1;
+    height: 200px;
+}
+img.csonti1
+{
+    border: 0;
+    position: absolute;
+    left:950px; 
+    top:150px;
+    z-index: -3;
+    height: 100px;
+}
+img.csonti2
+{
+    border: 0;
+    position: absolute;
+    left:940px; 
+    top:180px;
+    z-index: -1;
+    height: 100px;
+}
+img.csonti3
+{
+    border: 0;
+    position: absolute;
+    left:1000px; 
+    top:200px;
+    z-index: +1;
+    height: 100px;
 }
