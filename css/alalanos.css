@@ -1,6 +1,7 @@
 body
 {
     background-color:darkslategray;
+
     
 }
 
@@ -29,7 +30,7 @@ p
 	color:darkorange;
 	text-align:justify;
 	font-size:14pt;
-    line-height: 0.8;
+    line-height: 0.9;
     text-shadow: 1px 1px black;
    
     
@@ -89,7 +90,7 @@ img.lovag
     left:600px; 
     top:100px;
     z-index: -1;
-    height: 200px;
+    height: 220px;
 }
 img.malac
 {
@@ -116,7 +117,7 @@ img.boszi
     left:1000px; 
     top:80px;
     z-index: -1;
-    height: 200px;
+    height: 180px;
 }
 img.csonti1
 {
@@ -125,7 +126,7 @@ img.csonti1
     left:950px; 
     top:150px;
     z-index: -3;
-    height: 100px;
+    height: 80px;
 }
 img.csonti2
 {
@@ -134,7 +135,7 @@ img.csonti2
     left:940px; 
     top:180px;
     z-index: -1;
-    height: 100px;
+    height: 80px;
 }
 img.csonti3
 {
@@ -143,5 +144,25 @@ img.csonti3
     left:1000px; 
     top:200px;
     z-index: +1;
-    height: 100px;
+    height: 80px;
+}
+table
+{
+    text-align: center;
+    color:darkorange;
+    font-size: 14pt;
+    text-shadow: 1px 1px black;
+    border: 2pt solid black;
+   margin-bottom:20px;
+    
+    
+}
+td.mezonev
+{
+    font-weight: bold;
+    width:150;
+}
+td
+{
+    border: 1px solid black;
 }
