@@ -9,22 +9,31 @@ li
 {
     color:orangered;
 	text-shadow: 1px 1px black;
-    font-weight: bold;
     font-size:20pt;
     
 }
+
 u.pontos
 {
      font-size:24pt;
 }
+
 u
 {
     color:orangered;
     text-shadow: 1px 1px black;
     line-height: 0;
     font-size:17pt;
+    line-height: 0.9;
     
 }
+
+i.tab
+{
+    color:darkslategray;
+    text-shadow: 0px 0px darkslategray;
+}
+
 p
 {
 	color:darkorange;
@@ -35,6 +44,25 @@ p
    
     
 }
+
+p.buff
+{
+    color:limegreen;
+	text-align:justify;
+	font-size:14pt;
+    line-height: 0.9;
+    text-shadow: 1px 1px black;
+}
+
+p.nerf
+{
+   color:orangered;
+	text-align:justify;
+	font-size:14pt;
+    line-height: 0.9;
+    text-shadow: 1px 1px black; 
+}
+
 h2
 {
 	color:darkorange;
@@ -42,6 +70,7 @@ h2
 	text-align:center;
 	font-size:17pt;
 }
+
 h1
 {
 	color:darkorange;
@@ -55,18 +84,22 @@ a:visited
 {
     color:purple;
 }
+
 a:link
 {
     color:darkgreen;
 }
+
 a:hover
 {
    color:red; 
 }
+
 a:active
 {
     color:blue;
 }
+
 img
 {
 	border:5px solid;
@@ -74,6 +107,7 @@ img
 	display:block;
 	margin:auto;
 }
+
 img.barbar
 {
     border: 0;
@@ -83,6 +117,7 @@ img.barbar
     z-index: -1;
     height: 200px;
 }
+
 img.lovag
 {
     border: 0;
@@ -92,6 +127,7 @@ img.lovag
     z-index: -1;
     height: 220px;
 }
+
 img.malac
 {
     border: 0;
@@ -101,6 +137,7 @@ img.malac
     z-index: -1;
     height: 200px;
 }
+
 img.faronk
 {
     border: 0;
@@ -110,6 +147,7 @@ img.faronk
     z-index: -1;
     width: 170px;
 }
+
 img.boszi
 {
     border: 0;
@@ -119,6 +157,7 @@ img.boszi
     z-index: -1;
     height: 180px;
 }
+
 img.csonti1
 {
     border: 0;
@@ -128,6 +167,7 @@ img.csonti1
     z-index: -3;
     height: 80px;
 }
+
 img.csonti2
 {
     border: 0;
@@ -137,6 +177,7 @@ img.csonti2
     z-index: -1;
     height: 80px;
 }
+
 img.csonti3
 {
     border: 0;
@@ -146,6 +187,7 @@ img.csonti3
     z-index: +1;
     height: 80px;
 }
+
 table
 {
     text-align: center;
@@ -157,12 +199,18 @@ table
     
     
 }
+
 td.mezonev
 {
     font-weight: bold;
     width:150;
 }
+
 td
 {
     border: 1px solid black;
+}
+b
+{
+    color: orange;
 }
