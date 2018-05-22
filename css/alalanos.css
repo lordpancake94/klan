@@ -251,3 +251,23 @@ div.belso
     margin:auto;
     height: auto;
     background-color: royalblue;
+}
+
+div.menu
+{   display:table-cell;
+    margin:0;
+	height: auto;
+	width: auto;
+	border: 2pt solid black;
+ 	background-color:orangered;
+	vertical-align:bottom;
+	text-align:center;
+	font-weight:bold;
+	resize:none;
+    color:orange;
+    font-size: 30px;
+    text-shadow: 3px 2px black;
+    position:absolute;
+    left: 10px;
+    top:20px;
+}

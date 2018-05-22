@@ -103,5 +103,33 @@
                     </ul>
                     
                 </div>
+        </div>
+    
+<div class=menu id="m1">
+    Teljesítmény
+</div>
+<script>
+    var gomb=document.getElementById("m1");
+   gomb.onclick=megnyit;
+    gomb.onmouseout=valt;
+    gomb.onmouseover=valt;
+    
+    function megnyit()
+    {
+       window.open("teljesitmeny.html","foframe"); 
+    }
+    function valt()
+{
+    this.style.cursor = "pointer";
+	if(this.style.backgroundColor!="red")
+	{
+		this.style.backgroundColor="red";
+	}
+	else
+	{
+		this.style.backgroundColor="orangered";
+	}
+}
+</script>>
 </body>
 </html>
