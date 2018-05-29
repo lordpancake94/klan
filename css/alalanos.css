@@ -271,3 +271,8 @@ div.menu
     left: 10px;
     top:20px;
 }
+hr
+{
+    background-color: darkorange;
+    height: 4pt;
+}
