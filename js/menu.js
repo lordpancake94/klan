@@ -1,7 +1,7 @@
 db=5+1;
 document.write(tabla(db));
 var menusor=new Array(db);
-var menugombok=[new menugomb("<img src='kepek/cimer.png'>","fooldal.html"),new menugomb("Hasznos_infók","info.html"),new menugomb("Szabályok","szabaly.html"),new menugomb("Update_infó","update.html"),new menugomb("Clan_Wars","war.html"),new menugomb("Külső","kulso.html")];
+var menugombok=[new menugomb("<img src='kepek/cimer.png'>","fooldal.html"),new menugomb("Hasznos_info","info.html"),new menugomb("Szabályok","szabaly.html"),new menugomb("Update_info","update.html"),new menugomb("Clan_Wars","war.html"),new menugomb("Külső","kulso.html")];
 for(var i=0;i<menusor.length;i++)
 {
 	menusor[i]=document.getElementById(i);
