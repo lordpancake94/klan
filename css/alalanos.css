@@ -22,7 +22,7 @@ li
 
 p.buff
 {
-    color:limegreen;
+    color:lime;
 	text-align:justify;
 	font-size:14pt;
     line-height: 0.9;
@@ -31,7 +31,7 @@ p.buff
 
 p.nerf
 {
-   color:orangered;
+   color: red;
 	text-align:justify;
 	font-size:14pt;
     line-height: 0.9;
@@ -181,7 +181,7 @@ td.mezonev
 {
     font-weight: bold;
     width:150;
-    background-color: darkolivegreen;
+    background-color: darkred;
 }
 
 td
@@ -218,7 +218,7 @@ div.doboz
     display: block;
     margin: auto;
     height: auto;
-    background-color: royalblue;
+    background-color: darkolivegreen;
     
 }
 
@@ -226,11 +226,11 @@ div.cim
 {
     text-align: center;
     vertical-align: middle;
-    background-color: darkorange;
-    color: royalblue;
+    background-color: darkcyan;
+    color: darkorange;
     font-weight: bold;    
     font-size:16pt;
-
+    border: 1pt solid black;
     text-shadow: 1px 1px black;
     
 }
@@ -250,7 +250,7 @@ div.belso
     display: block;
     margin:auto;
     height: auto;
-    background-color: royalblue;
+    background-color: darkolivegreen;
 }
 
 div.menu
