@@ -290,8 +290,7 @@ hr
 
 iframe.sav
 {
-    	border:5px solid;
-	border-color:black;
+    	border:5px solid black;
 	display:block;
 	margin:auto;
 }
@@ -299,4 +298,5 @@ iframe.kor
 {
 	height: 100%;
 	width: 50%;
+	border:5px solid black;
 }
