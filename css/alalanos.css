@@ -281,6 +281,20 @@ div.korok
 	margin:auto;
 	
 }
+div.korok2
+{
+   	 height: 312;
+   	 width: 768;
+	display:block;
+	margin:auto;
+	
+}
+div.kor
+{
+	height:100%;
+	width: 50%;
+	border: 2px solid green;
+}
 
 hr
 {
