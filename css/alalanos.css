@@ -296,7 +296,7 @@ iframe.sav
 }
 iframe.kor
 {
+	display:block;
 	height: 100%;
 	width: 50%;
-	border:5px solid black;
 }
