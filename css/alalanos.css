@@ -271,8 +271,27 @@ div.menu
     left: 10px;
     top:20px;
 }
+
+div.korok
+{
+    height: 312;
+    width: 768;
+    border:5px solid;
+	border-color:black;
+	display:block;
+	margin:auto;
+}
+
 hr
 {
     background-color: darkorange;
     height: 4pt;
+}
+
+iframe.sav
+{
+    border:5px solid;
+	border-color:black;
+	display:block;
+	margin:auto;
 }
