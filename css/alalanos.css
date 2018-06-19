@@ -275,11 +275,11 @@ div.menu
 div.korok
 {
    	 height: 312;
-   	 width: 800;
+   	 width: 790;
    	 border:5px solid black;
 	display:block;
 	margin:auto;
-	backgroung-color: white;
+	background-color:white;
 }
 
 hr
