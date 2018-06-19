@@ -274,12 +274,12 @@ div.menu
 
 div.korok
 {
-    height: 312;
-    width: 1000;
-    border:5px solid;
-	border-color:black;
+   	 height: 312;
+   	 width: 800;
+   	 border:5px solid black;
 	display:block;
 	margin:auto;
+	backgroung-color: white;
 }
 
 hr
@@ -293,9 +293,4 @@ iframe.sav
     	border:5px solid black;
 	display:block;
 	margin:auto;
-}
-iframe.kor
-{
-	height: 100%;
-    	width: 50%;
 }
