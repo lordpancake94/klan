@@ -291,6 +291,7 @@ div.korok2
 }
 div.kor
 {
+	display:inline-block;
 	height:100%;
 	width: 40%;
 	border: 2px solid green;
